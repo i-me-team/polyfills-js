@@ -27,7 +27,7 @@ class EventEmitter {
   }
 }
 
-export class TaskManager extends EventEmitter {
+class TaskManager extends EventEmitter {
   constructor() {
     super();
     this.tasks = [];
