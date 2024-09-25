@@ -6,6 +6,7 @@ Collections of polyfills and LLD problems which are asked in interview with note
 <summary>
 Hide/Show table of contents
 </summary>
+
 | No. | Questions                                                                                                                  |
 |-----|----------------------------------------------------------------------------------------------------------------------------|
 | 1.  | [memo polyfill](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/memo.js)                                 |
@@ -30,4 +31,5 @@ Hide/Show table of contents
 | 20. | [promisify polyfill](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/promisify.js)                       |
 | 21. | [arrayShuffle polyfill](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/arrayShuffle.js)                 |
 | 22. | [curry polyfill](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/curry.js)                               |
+
 </details>
