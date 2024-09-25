@@ -8,7 +8,7 @@ Hide/Show table of contents
 </summary>
 
 | No. | Questions                                                                                                                  |
-| --- | -------------------------------------------------------------------------------------------------------------------------- |
+|-----|----------------------------------------------------------------------------------------------------------------------------|
 | 1.  | [memo polyfill](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/memo.js)                                 |
 | 2.  | [detectDataType polyfill](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/detectDataType.js)             |
 | 3.  | [mapPolyfill polyfill](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/mapPolyfill.js)                   |
