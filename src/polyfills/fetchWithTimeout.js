@@ -1,12 +1,3 @@
-// If the server takes more than 2 second to respond; throw and Error as Request timed out
-// fetch(`https://reqres.in/api/users?delay=3`)
-//   .then((resp) => resp.json())
-//   .then(({ data }) =>
-//     data.forEach((datum) =>
-//       console.log(`${datum.first_name} ${datum.last_name}`)
-//     )
-//   );
-
 async function fetchWithTimeout(resource, options = {}) {
   const { timeout = 10000 } = options;
 
@@ -21,6 +12,8 @@ async function fetchWithTimeout(resource, options = {}) {
   return response;
 }
 
+// If the server takes more than 2 second to respond; throw and Error as Request timed out
+// Usage example
 fetchWithTimeout(`https://reqres.in/api/users?delay=3`, { timeout: 2000 })
   .then((resp) => resp.json())
   .then(({ data }) =>
