@@ -33,5 +33,8 @@ Hide/Show table of contents
 | 22. | [curry polyfill](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/curry.js)                                        |
 | 23. | [fetchWithTimeout functionality](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/fetchWithTimeout.js)             |
 | 24. | [localStorageWithExpiry functionality](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/localStorageWithExpiry.js) |
+| 25. | [Interceptors in Javascript](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/interceptors.js)                     |
+| 26. | [React polyfills](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/reactPolyfills.js)                              |
+| 27. | [Sleep behavior in Javascript](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/sleep.js)                          |
 
 </details>
