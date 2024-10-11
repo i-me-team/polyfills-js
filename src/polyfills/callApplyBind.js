@@ -9,7 +9,7 @@
     * To avoid interfering with existing properties on the context object:
         * We can't simply use a regular string as the property name (like context['tempFunction'] = this) because it might overwrite an existing property.
         * Using a Symbol creates a guaranteed unique property name, ensuring we don't accidentally modify or overwrite any existing properties on the context object.
- */
+*/
 
 // Bind polyfill
 Function.prototype.myBind = function (context, ...origArgs) {
