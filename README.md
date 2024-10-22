@@ -41,5 +41,10 @@ Hide/Show table of contents
 | 30. | [AnalyticsSDK](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/AnalyticsSDK.js)                                          |
 | 31. | [Promise Waterfall](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/promiseWaterfall.js)                                 |
 | 32. | [Extract & Calculate specific property of Object](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/extractNdCalculate.js) |
+| 33. | [Debounce With Leading and Trailing options](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/debounceWithLnT.js)         |
+| 34. | [Throttle With Leading and Trailing options](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/throttleWithLnT.js)         |
+| 35. | [Circuit Breaker](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/circuitBreaker.js)                                     |
+| 36. | [Cached API Call with Expiry](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/cachedAPIWithExpiry.js)                    |
+| 37. | [Merge Promises](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/mergePromises.js)                                       |
 
 </details>
