@@ -1,7 +1,7 @@
 function loadImage(url, callback) {
   const image = new Image(300, 300);
-  image.onload = callback(null, image);
-  image.onerror = callback(new Error('Unable to load image'));
+  image.onload = () => callback(null, image);
+  image.onerror = () => callback(new Error('Unable to load image'));
   // async operation
   image.src = url;
 }

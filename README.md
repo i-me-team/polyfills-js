@@ -46,5 +46,6 @@ Hide/Show table of contents
 | 35. | [Circuit Breaker](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/circuitBreaker.js)                                     |
 | 36. | [Cached API Call with Expiry](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/cachedAPIWithExpiry.js)                    |
 | 37. | [Merge Promises](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/mergePromises.js)                                       |
+| 37. | [Flatten Object](https://github.com/i-me-team/polyfills-js/blob/main/src/polyfills/flattenObject.js)                                       |
 
 </details>
